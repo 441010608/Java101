@@ -1,8 +1,10 @@
+import java.util.Scanner;
+
+
 //muhmmed jafar 
 //s441010608
 
 
-import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     Scanner myNum = new Scanner(System.in);
